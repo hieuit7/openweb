@@ -1,0 +1,17 @@
+[24-Dec-2013 01:14:09] PHP Fatal error:  Call to undefined function  unicode_encode() in /home/ductan/public_html/trasuah2q.tk/charset_convert.php on line 2
+[24-Dec-2013 01:14:43] PHP Fatal error:  Call to undefined function  unicode_encode() in /home/ductan/public_html/trasuah2q.tk/charset_convert.php on line 3
+[24-Dec-2013 01:14:46] PHP Fatal error:  Call to undefined function  unicode_encode() in /home/ductan/public_html/trasuah2q.tk/charset_convert.php on line 3
+[24-Dec-2013 01:15:47] PHP Fatal error:  Call to undefined function  unicode_encode() in /home/ductan/public_html/trasuah2q.tk/charset_convert.php on line 2
+[24-Dec-2013 01:16:40] PHP Fatal error:  Call to undefined function  unicode_encode() in /home/ductan/public_html/trasuah2q.tk/charset_convert.php on line 2
+[24-Dec-2013 01:18:07] PHP Fatal error:  Call to undefined function  unicode_encode() in /home/ductan/public_html/trasuah2q.tk/charset_convert.php on line 2
+[24-Dec-2013 01:19:19] PHP Fatal error:  Call to undefined function  unicode_encode() in /home/ductan/public_html/trasuah2q.tk/charset_convert.php on line 2
+[24-Dec-2013 01:25:18] PHP Fatal error:  Call to undefined function  i18n_loc_get_default() in /home/ductan/public_html/trasuah2q.tk/charset_convert.php on line 3
+[24-Dec-2013 02:09:26] PHP Fatal error:  Call to undefined function  unicode_encode() in /home/ductan/public_html/trasuah2q.tk/charset_convert.php on line 2
+[24-Dec-2013 02:24:22] PHP Parse error:  syntax error, unexpected T_STRING in /home/ductan/public_html/trasuah2q.tk/themse/default/template/about.tpl on line 7
+[14-Jan-2014 10:32:31 America/Los_Angeles] PHP Warning:  include_once(/home/ductan/public_html/trasuah2q.tk/libs/modules/999999.php): failed to open stream: No such file or directory in /home/ductan/public_html/trasuah2q.tk/libs/class/Action.class.php on line 80
+[14-Jan-2014 10:32:31 America/Los_Angeles] PHP Warning:  include_once(): Failed opening '/home/ductan/public_html/trasuah2q.tk/libs/modules/999999.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ductan/public_html/trasuah2q.tk/libs/class/Action.class.php on line 80
+[14-Jan-2014 10:33:28 America/Los_Angeles] PHP Warning:  extract() expects parameter 1 to be array, null given in /home/ductan/public_html/trasuah2q.tk/libs/modules/view.php on line 56
+[14-Jan-2014 10:33:33 America/Los_Angeles] PHP Warning:  extract() expects parameter 1 to be array, null given in /home/ductan/public_html/trasuah2q.tk/libs/modules/view.php on line 56
+[14-Jan-2014 10:33:45 America/Los_Angeles] PHP Warning:  extract() expects parameter 1 to be array, null given in /home/ductan/public_html/trasuah2q.tk/libs/modules/view.php on line 56
+[14-Jan-2014 10:33:50 America/Los_Angeles] PHP Warning:  extract() expects parameter 1 to be array, null given in /home/ductan/public_html/trasuah2q.tk/libs/modules/view.php on line 56
+[14-Jan-2014 10:34:12 America/Los_Angeles] PHP Warning:  extract() expects parameter 1 to be array, null given in /home/ductan/public_html/trasuah2q.tk/libs/modules/view.php on line 56

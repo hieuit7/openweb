@@ -1,0 +1,48 @@
+<div class="form_content">
+   
+    <form action="index.php?module=register" method="post" name="register">
+        <div class="form_line">
+            User Name: 
+        </div>
+        <div class="form_line">
+            <input name="username" type="text" id="username" onchange="checkuser()"/>
+        </div>
+        <div class="clr"></div>
+        <div class="form_line">
+            Password:
+        </div>
+        <div class="form_line">
+            <input name="passwd" type="password"/>
+        </div>
+        <div class="clr"></div>
+        <div class="form_line">
+            Retype Password:
+        </div>
+        <div class="form_line">
+            <input name="repasswd" type="password"/>
+        </div>
+        <div class="clr"></div>
+        <div class="form_line">
+            Sex:
+        </div>
+        <div class="form_line">
+            Nam: <input name="gioitinh" type="radio" value="1"/>
+            N?:  <input name="gioitinh" type="radio" value="0"/>
+        </div>
+        <div class="clr"></div>
+        <div class="form_line">
+            Email:
+        </div>
+        <div class="form_line">
+            <input name="email" type="text"/>
+        </div>
+        <div class="clr"></div>
+        <div class="form_line">
+            <input name="submit" type="submit" value="Register"/>
+            
+        </div>
+        <div class="form_line">
+            <input name="delete" type="reset" value="Re Input"/>
+        </div>
+    </form>
+</div>

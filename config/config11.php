@@ -1,0 +1,12 @@
+<?php
+define("EXIST",true);
+define("VERSION","1.0");
+define("HOSTNAME","localhost");
+define("ROOT_DIR","I:\WebServer\Apache2.2.1\htdocs\web");
+define("DIR_CLASS","I:\WebServer\Apache2.2.1\htdocs\web\libs/class");
+define("DIR_MODULES","I:\WebServer\Apache2.2.1\htdocs\web\libs/modules");
+define("DB","rosa");
+define("DB_HOST","localhost");
+define("DB_USER","root");
+define("DB_PASSWD","U3!h");
+?>

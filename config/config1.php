@@ -1,0 +1,12 @@
+<?php
+define("EXIST",true);
+define("VERSION","1.0");
+define("HOSTNAME","trasuah2q.tk");
+define("ROOT_DIR","/home/ductan/public_html/trasuah2q.tk");
+define("DIR_CLASS","/home/ductan/public_html/trasuah2q.tk/libs/class");
+define("DIR_MODULES","/home/ductan/public_html/trasuah2q.tk/libs/modules");
+define("DB","ductan_h2q");
+define("DB_HOST","localhost");
+define("DB_USER","ductan_h2q");
+define("DB_PASSWD","U3!hcN11*");
+?>

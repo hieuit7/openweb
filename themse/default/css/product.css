@@ -1,0 +1,47 @@
+.product{
+   
+}
+.comment_hiden{
+    display: none;
+}
+.product_detail{
+    display: block;
+    width: 100px;
+    float: left;
+    margin: 5px;
+    border: #FF80FF 1px;
+}
+.product_comment{
+    
+    display: block ;
+}
+.comment_user{
+    
+}
+.comment_body{
+    
+}
+.product_id{
+    background: yellow;
+    color: fuchsia;
+    padding: 10px;
+    margin: 5px;
+    border: 1px;
+    border-color: black;
+}
+.product_name{
+    background: #FF8040;
+    color: #8000FF;
+    padding: 10px;
+    margin: 5px;
+    border: 1px;
+    border-color: black;
+}
+.product_des{
+    padding: 10px;
+    margin: 5px;
+    background: #80FFFF;
+    color: #4E6132;
+    border: 1px;
+    border-color: black;
+}

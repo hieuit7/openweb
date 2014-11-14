@@ -1,0 +1,15 @@
+.form_content{
+    
+    width: 250px;
+    margin: auto;
+}
+.form_line{
+    width: 120px;
+    float: left;
+}
+.text_comment{
+    width: 100px;
+}
+.clr{
+    clear: both;
+}
